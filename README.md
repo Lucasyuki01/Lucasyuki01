@@ -16,8 +16,6 @@ Computer Science graduate (UNESP, Brazil) currently completing a **Data Science 
 
 My projects come from genuine needs: a telemetry dashboard to analyze my own kart sessions, a finance tool to understand my own spending, an inventory system for my university racing team, and an ML strategy that outperformed the Brazilian stock market benchmark by 12x.
 
-Currently working as a **Data Steward at Tech2Step**, maintaining data pipelines and analytics workflows in Vancouver.
-
 - 🔭 &nbsp;Building: [ATS Resume Optimizer](https://github.com/Lucasyuki01/ats-resume-optimizer) — Next.js + Claude AI tool to tailor resumes to job descriptions
 - 🌱 &nbsp;Deepening: data visualization, pipeline design, and LLM applications
 - 💬 &nbsp;Ask me about: Python, SQL, ML pipelines, FastAPI, or prompt engineering
