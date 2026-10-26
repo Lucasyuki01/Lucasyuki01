@@ -54,7 +54,7 @@ My projects come from real problems: analyzing my own kart telemetry, understand
 
 | Project | Stack | What it does |
 |---|---|---|
-| [🚓 Vancouver Crime Pipeline](https://github.com/Lucasyuki01/vancouver-crime-pipeline) | Python · [FILL IN] | [FILL IN: data source, what the pipeline does, main insight] |
+| [🚓 Vancouver Crime Pipeline](https://github.com/Lucasyuki01/vancouver-crime-pipeline) | Python · PostgreSQL · Streamlit | End-to-end ETL pipeline that extracts Vancouver Police Department crime data, transforms it and loads it into a cloud PostgreSQL database, then visualizes it in an interactive Streamlit dashboard. [Live →]([https://gopro-kart-dashboard-dashboard.vercel.app](https://vancouver-crime-pipeline-3f5cvrnp5ywa7jwtfbkerl.streamlit.app/))|
 | [💰 Personal Finance Analysis](https://github.com/Lucasyuki01/Personal-Finance-Analysis) | Python · Streamlit · Pandas | Upload any bank's CSV/XLSX export, auto-classify transactions and build custom category trees. Rules persist across sessions. [Live →](https://personal-finance-analysis-ly.streamlit.app/) |
 | [📈 Stock Prediction Algorithm](https://github.com/Lucasyuki01/stock-prediction-algorithm) | Python · Scikit-learn · XGBoost · Pandas | Undergraduate thesis (UNESP, 2024) comparing Random Forest, XGBoost and SVM for stock classification on B3. In backtesting, the best strategy returned 254% vs 20.9% for the Ibovespa (Sharpe 1.73). Limitations and next steps are documented in the repo. |
 | [🏎 GoPro Kart Dashboard](https://github.com/Lucasyuki01/gopro-kart-dashboard) | Node.js · React · Leaflet | Extracts GPS and G-force telemetry from GoPro footage, detects laps and maps speed along the track for session analysis. [Live →](https://gopro-kart-dashboard-dashboard.vercel.app) |
