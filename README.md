@@ -2,7 +2,7 @@
 
 # Lucas Yuki Nishimoto
 
-**Data Analyst · ML Engineer · Backend Developer**
+**Data Analyst**
 
 Vancouver, BC 🇨🇦 &nbsp;|&nbsp; [lucasnishimoto.dev](https://lucasnishimoto.dev) &nbsp;|&nbsp; [LinkedIn](https://www.linkedin.com/in/lucas-yuki-nishimoto-baaa55290/)
 
