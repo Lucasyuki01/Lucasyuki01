@@ -16,7 +16,6 @@ Data Analyst based in Vancouver with a Computer Science background (UNESP, Brazi
 
 My projects come from real problems: analyzing my own kart telemetry, understanding my own spending, managing parts inventory for my university racing team, and backtesting ML models on the Brazilian stock market.
 
-- 🔭 &nbsp;Building: [ATS Resume Optimizer](https://github.com/Lucasyuki01/ats-resume-optimizer), a Next.js + Claude AI tool that tailors resumes to job descriptions
 - 🌱 &nbsp;Deepening: advanced SQL, Power BI and business-focused dashboards
 - 💬 &nbsp;Ask me about: SQL, Python, data cleaning, data visualization
 - 🌐 &nbsp;Portfolio with AI-powered chat: [lucasnishimoto.dev](https://lucasnishimoto.dev)
